@@ -1,0 +1,6 @@
+plot.new()
+plot.window(c(-2,2),c(-2,2))
+segments(1,1,1,-1)
+segments(1,-1,-1,-1)
+segments(-1,-1,-1,1)
+segments(-1,1,1,1)
